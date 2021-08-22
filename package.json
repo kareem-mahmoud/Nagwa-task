@@ -1,0 +1,28 @@
+{
+  "name": "nagwa",
+  "version": "1.0.0",
+  "description": "learning package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kareem",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "bootstrap": "^4.3.1",
+    "browser-sync": "^2.27.5",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-fa-minify": "^1.0.1",
+    "gulp-html-minifier": "^0.1.8",
+    "gulp-image": "^6.2.1",
+    "gulp-minify": "^3.1.0",
+    "gulp-sass": "^5.0.0",
+    "jquery": "^3.6.0",
+    "node-sass": "^6.0.1",
+    "sass": "^1.38.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
